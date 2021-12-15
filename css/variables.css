@@ -1,0 +1,16 @@
+:root {
+	--primary-color: #cbd0d8;
+	--secondary-color: #68799c;
+	--light-color: #a5530b;
+	--dark-color: #737B4C	;
+    --dark-light-color: #85a36a;
+    --dark-lighter-color: #d47e32;
+    --content-color: #ebf1fc;
+	--max-width: 1100px;
+}
+
+.category {
+	--category-european: #eaac8b;
+	--category-chinease: #e56b6f;
+	--category-others: #b56576;
+}
